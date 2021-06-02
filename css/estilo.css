@@ -1,0 +1,56 @@
+body {
+   background-image: url('../img/fundo.png');
+}
+
+
+.banner {
+    margin: 0;
+    width: 2000;
+    height: 300;
+    margin-bottom: 40px;
+}
+
+.botoes1{
+    background-color: #FF003C;
+    border-radius: 50px;
+    border-color: black;
+    color:white;
+}
+
+.botoes{
+    background-color: #C7C4C9;
+    color:black;
+    border-radius: 50px;
+    border-color: black;
+}
+
+.botoes1:hover{
+    background-color: #C7C4C9;
+    border-radius: 50px;
+    border-width: 5px;
+    border-color: #FF003C;
+    color:black;
+}
+
+
+
+.botoes:hover{
+    background-color: #FF003C;
+    border-radius: 50px;
+    border-width: 5px;
+    border-color: #C7C4C9;
+    color:white;
+}
+
+
+.navbarfont {
+    color:white;
+}
+
+.navbarfont:hover {
+    color:#FF003C;
+}
+
+.navbarfont:link:after {
+    color:white;
+}
